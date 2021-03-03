@@ -1,0 +1,3 @@
+[submodule "leetcode-everyday"]
+	path = leetcode-everyday
+	url = https://github.com/chat-code/leetcode-everyday.git
