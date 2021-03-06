@@ -21,7 +21,6 @@ def enrich_id(path, min_length):
       enrich_id(path, length)
       return
     elif length == min_length:
-      print('reserve "{}/{}"'.format(path, filename))
       continue
 
     cmd('mv "{}/{}" "{}/{}{}"'.format(path, filename, \
