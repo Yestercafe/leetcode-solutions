@@ -4,7 +4,7 @@ import argparse
 import time
 
 def cmd(command):
-  print(command)
+  print('$ ' + command)
   return os.system(command)
 
 def git(instruction, msg='Commit at {}'.format(time.time())):

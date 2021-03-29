@@ -4,7 +4,7 @@ import re
 import argparse
 
 def cmd(command):
-  print(command)
+  print('$ ' + command)
   os.system(command)
 
 def enrich_id(path, min_length):

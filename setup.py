@@ -5,7 +5,7 @@ from components.git import git
 import os
 
 def cmd(command):
-  print(command)
+  print('$ ' + command)
   os.system(command)
 
 migrate('Yescafe', '.', './leetcode-everyday')
