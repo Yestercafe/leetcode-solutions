@@ -5,3 +5,4 @@
 ** TODO 279 gitpage summary https://leetcode.com/problems/perfect-squares/discuss/71488/Summary-of-4-different-solutions-(BFS-DP-static-DP-and-mathematics)
 ** TODO optimize 73
 ** TODO 1049
+** TODO queued 1017
