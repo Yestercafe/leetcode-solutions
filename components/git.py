@@ -28,7 +28,8 @@ if __name__ == '__main__':
                       choices=['addp', 'adda', 'commit', 'sync', 'log'], \
                       help='instruction')
   parser.add_argument('-m', '--msg', type=str,
-                      default='Commit at {}'.format(time.time()), \
+                      default='Commit at {}'.format(time.strftime("%Y-%m-%d %H:%M:%S", \
+                                                    time.gmtime())), \
                       help='optional commit message')
   args = parser.parse_args()
 
