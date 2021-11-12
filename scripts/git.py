@@ -7,7 +7,7 @@ def auto_commit():
     commit('Auto commit: ' + time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()))
 
 def commit(msg: str):
-    utils.run('git commit -m"' + msg + '"')
+    utils.run('git commit -m "' + msg + '"')
 
 def add_all():
     utils.run('git add -A')

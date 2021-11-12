@@ -10,7 +10,7 @@ from scripts.git import auto_commit
 
 def main():
     parser = argparse.ArgumentParser(description='An automation script for this repo.')
-    parser.add_argument('instruction', type=str, choices=['migrate', 'pick', 'info', 'update_readme', 'update_problem_list'])
+    parser.add_argument('instruction', type=str, choices=['migrate', 'pick', 'info', 'update_readme', 'update_problem_list', 'auto_commit'])
     parser.add_argument('-i', '--problem_id', type=int)
     args = parser.parse_args()
 
@@ -25,6 +25,9 @@ def main():
         migrate.update_readmes()
     elif args.instruction == 'update_problem_list':
         update_problem_list()
+    elif args.instruction == 'auto_commit':
+        auto_commit()
+        return
     auto_commit()
 
 
