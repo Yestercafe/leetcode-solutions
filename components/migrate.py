@@ -29,7 +29,7 @@ def migrate(name, path, source, tmpfile='./find-result'):
       with open(basepath + '/READEME.md') as readme:
         problem_name = readme.readlines()[4].strip().split('/')[-1]
 
-      problem_id_name = '{}-{}'.format(problem_id, problem_name)
+      problem_id_name = '%.4d-%s' % (problem_id, problem_name)
       filename = filepath.split('/')[-1]
 
       cmd('mkdir -p "{}/{}"'.format(path, problem_id_name))
