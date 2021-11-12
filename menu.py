@@ -5,6 +5,7 @@ import scripts.migrate as migrate
 from scripts.problem import Problem
 from scripts.pjson import PJson
 from scripts.update_problem_list import update_problem_list
+from scripts.git import auto_commit
 
 
 def main():
@@ -19,10 +20,13 @@ def main():
         Problem.pick_problem(args.problem_id)
     elif args.instruction == 'info':
         print(Problem(args.problem_id, PJson().export))
+        return
     elif args.instruction == 'update_readme':
         migrate.update_readmes()
     elif args.instruction == 'update_problem_list':
         update_problem_list()
+    auto_commit()
+
 
 
 if __name__ == '__main__':
