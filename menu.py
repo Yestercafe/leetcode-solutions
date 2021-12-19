@@ -6,11 +6,12 @@ from scripts.problem import Problem
 from scripts.pjson import PJson
 from scripts.update_problem_list import update_problem_list
 from scripts.git import auto_commit
+import scripts.utils as utils
 
 
 def main():
     parser = argparse.ArgumentParser(description='An automation script for this repo.')
-    parser.add_argument('instruction', type=str, choices=['migrate', 'pick', 'info', 'update_readme', 'update_problem_list', 'auto_commit'])
+    parser.add_argument('instruction', type=str, choices=['migrate', 'pick', 'info', 'update_readme', 'update_problem_list', 'auto_commit', 'stats'])
     parser.add_argument('-i', '--problem_id', type=int)
     args = parser.parse_args()
 
@@ -27,6 +28,9 @@ def main():
         update_problem_list()
     elif args.instruction == 'auto_commit':
         auto_commit()
+        return
+    elif args.instruction == 'stats':
+        utils.run('ls | grep "^\d" | wc -l')
         return
     auto_commit()
 
