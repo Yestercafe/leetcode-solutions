@@ -12,7 +12,7 @@ import scripts.utils as utils
 def main():
     parser = argparse.ArgumentParser(description='An automation script for this repo.')
     parser.add_argument('instruction', type=str, choices=['migrate', 'pick', 'info', 'update_readme', 'update_problem_list', 'update_scripts', 'auto_commit', 'stats'])
-    parser.add_argument('-i', '--problem_id', type=int)
+    parser.add_argument('-i', '--problem_id', type=str)
     args = parser.parse_args()
     
     commit_info = ''
@@ -39,7 +39,7 @@ def main():
     elif args.instruction == 'stats':
         utils.run('ls | grep "^\d" | wc -l')
         return
-    auto_commit(commit_info)
+    # auto_commit(commit_info)
 
 
 

@@ -22,7 +22,7 @@ class Problem:
                 self.is_paid = json_dict['paid_only']
 
     def get_fullname(self):
-        return '%.4d-%s' % (self.pid, self.slug)
+        return '%s-%s' % (self.pid, self.slug)
 
     def wake_up(self):
         self.mkdir(False)
@@ -33,20 +33,20 @@ class Problem:
 
     def update_readme(self):
         with open('./' + self.get_fullname() + '/readme.md', 'w+') as fp:
-            fp.write('# %d. %s\n\n' % (self.pid, self.title))
+            fp.write('# %s. %s\n\n' % (self.pid, self.title))
             if self.is_paid:
                 fp.write('# ONLY FOR PAID\n\n')
             fp.write('Difficulty: %s\n\n' % self.difficulty)
             fp.write('URL: %s\n\n' % (LEETCODE_PROBLEM_PREFIX + self.slug))
 
     def __str__(self):
-        return '[pid: %d, title: %s, slug: %s, difficulty: %s, is_paid: %d]'\
+        return '[pid: %s, title: %s, slug: %s, difficulty: %s, is_paid: %d]'\
                % (self.pid, self.title, self.slug, self.difficulty, self.is_paid)
 
     def _pick(self):
         if self.mkdir():
             self.update_readme()
-            print("Pick `%d-%s'." % (self.pid, self.title))
+            print("Pick `%s-%s'." % (self.pid, self.title))
         else:
             print('Pick error.')
 

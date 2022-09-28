@@ -3,7 +3,7 @@ from scripts.constants import *
 import scripts.utils as utils
 
 def update_problem_list():
-    utils.run('wget https://leetcode.com/api/problems/algorithms/ -O ' + PROBLEM_LIST_JSON)
+    utils.run('wget https://leetcode.cn/api/problems/all/ -O ' + PROBLEM_LIST_JSON)
 
     file_name = PROBLEM_LIST_JSON
     # codes from https://github.com/chat-code/leetcode-everyday/blob/master/utility/clean_json.py
