@@ -43,7 +43,7 @@ def main():
     elif args.instruction == 'stats':
         utils.run('ls | grep "^\d" | wc -l')
         return
-    # auto_commit(commit_info)
+    auto_commit(commit_info)
 
 
 
