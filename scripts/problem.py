@@ -22,7 +22,10 @@ class Problem:
                 self.is_paid = json_dict['paid_only']
 
     def get_fullname(self):
-        return '%s-%s' % (self.pid, self.slug)
+        if self.pid.startswith('面试题'):
+            first, second = self.pid.split()[1].split('.')
+            return 'lcci/%s%s-%s' % (first, second, '-'.join(self.slug.split('-')[:-1]))
+        return '%s%s-%s' % ('0' * (4 - len(self.pid)), self.pid, self.slug)
 
     def wake_up(self):
         self.mkdir(False)
@@ -47,6 +50,7 @@ class Problem:
         if self.mkdir():
             self.update_readme()
             print("Pick `%s-%s'." % (self.pid, self.title))
+            print("Created '%s'." % self.get_fullname())
         else:
             print('Pick error.')
 
