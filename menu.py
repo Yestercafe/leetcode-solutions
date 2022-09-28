@@ -15,15 +15,16 @@ def main():
     parser.add_argument('-i', '--problem_id', type=str)
     args = parser.parse_args()
     
+    if args.problem_id.startswith('mst'):
+        i = args.problem_id
+        i = '面试题 ' + i[3] + i[4] + '.' + i[5] + i[6]
+        args.problem_id = i
+
     commit_info = ''
     if args.instruction == 'migrate':
         migrate.migrate_from_repo('leetcode-everyday', 'Yescafe')
         commit_info = 'migrate: ran migrate script'
     elif args.instruction == 'pick':
-        if args.problem_id.startswith('mst'):
-            i = args.problem_id
-            i = '面试题 ' + i[3] + i[4] + '.' + i[5] + i[6]
-            args.problem_id = i
         Problem.pick_problem(args.problem_id)
         commit_info = 'pick: picked {}'.format(args.problem_id)
     elif args.instruction == 'info':
