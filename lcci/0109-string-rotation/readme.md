@@ -2,5 +2,5 @@
 
 Difficulty: Easy
 
-URL: https://leetcode.com/problems/string-rotation-lcci
+URL: https://leetcode.cn/problems/string-rotation-lcci
 
