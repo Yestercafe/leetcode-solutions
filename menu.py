@@ -14,12 +14,12 @@ def main():
     parser.add_argument('instruction', type=str, choices=['migrate', 'pick', 'info', 'update_readme', 'update_problem_list', 'update_scripts', 'auto_commit', 'stats'])
     parser.add_argument('-i', '--problem_id', type=str)
     args = parser.parse_args()
-    
-    if args.problem_id.startswith('mst'):
+
+    if args.problem_id and args.problem_id.startswith('mst'):
         i = args.problem_id
         i = '面试题 ' + i[3] + i[4] + '.' + i[5] + i[6]
         args.problem_id = i
-
+    
     commit_info = ''
     if args.instruction == 'migrate':
         migrate.migrate_from_repo('leetcode-everyday', 'Yescafe')
