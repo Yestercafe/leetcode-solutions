@@ -1,21 +1,11 @@
 class Solution:
     def sortEvenOdd(self, nums: List[int]) -> List[int]:
-        oi, ei = [], []
-        o, e = [], []
-        for i, n in enumerate(nums):
-            if i % 2 == 0:
-                ei.append(i)
-                e.append(n)
-            else:
-                oi.append(i)
-                o.append(n)
-
-        o.sort(reverse = True)
+        e, o = nums[::2], nums[1::2]
+        o.sort(reverse=True)
         e.sort()
-        io, ie = 0, 0
-        for i, n in enumerate(o):
-            nums[oi[i]] = n
-        for i, n in enumerate(e):
-            nums[ei[i]] = n
+        for i in range(len(o)):
+            nums[2 * i] = e[i]
+            nums[2 * i + 1] = o[i]
+        if len(nums) % 2: nums[-1] = e[-1]
         return nums
 
