@@ -25,6 +25,8 @@ class Problem:
         if self.pid.startswith('面试题'):
             first, second = self.pid.split()[1].split('.')
             return 'lcci/%s%s-%s' % (first, second, '-'.join(self.slug.split('-')[:-1]))
+        if self.pid.startswith('剑指'):
+            return 'lcof/%s' % '-'.join([' '.join(self.pid.split()[1:]), self.title])
         return '%s%s-%s' % ('0' * (4 - len(self.pid)), self.pid, self.slug)
 
     def wake_up(self):

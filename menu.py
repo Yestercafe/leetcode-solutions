@@ -19,7 +19,26 @@ def main():
         i = args.problem_id
         i = '面试题 ' + i[3] + i[4] + '.' + i[5] + i[6]
         args.problem_id = i
-    
+    if args.problem_id and args.problem_id.startswith('offer'):
+        i = args.problem_id[5:]
+        suffix = 0
+        if len(s := i.split('-')) > 1:
+            i = s[0]
+            suffix = int(s[1])
+        if suffix == 1:
+            suffix = 'I'
+        elif suffix == 2:
+            suffix = 'II'
+        elif suffix == 3:
+            suffix = 'III'
+        elif suffix == '4':
+            suffix = 'IV'
+        elif suffix == '5':
+            suffix = 'V'
+        i = '剑指 Offer ' + i + (f' - {suffix}' if suffix != 0 else '')
+        print(i)
+        args.problem_id = i
+     
     commit_info = ''
     if args.instruction == 'migrate':
         migrate.migrate_from_repo('leetcode-everyday', 'Yescafe')
