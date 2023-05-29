@@ -2,6 +2,127 @@
     "stat_status_pairs": [
         {
             "stat": {
+                "frontend_question_id": "LCP 82",
+                "question__title": "\u4e07\u7075\u4e4b\u6811",
+                "question__title_slug": "cnHoX6"
+            },
+            "difficulty": {
+                "level": 3
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "LCP 81",
+                "question__title": "\u4e0e\u975e\u7684\u8c1c\u9898",
+                "question__title_slug": "ryfUiz"
+            },
+            "difficulty": {
+                "level": 3
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "LCP 80",
+                "question__title": "\u751f\u7269\u8fdb\u5316\u5f55",
+                "question__title_slug": "qoQAMX"
+            },
+            "difficulty": {
+                "level": 3
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "LCP 79",
+                "question__title": "\u63d0\u53d6\u5492\u6587",
+                "question__title_slug": "kjpLFZ"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "LCP 78",
+                "question__title": "\u57ce\u5899\u9632\u7ebf",
+                "question__title_slug": "Nsibyl"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "LCP 77",
+                "question__title": "\u7b26\u6587\u50a8\u5907",
+                "question__title_slug": "W2ZX4X"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "LCP 76",
+                "question__title": "\u9b54\u6cd5\u68cb\u76d8",
+                "question__title_slug": "1ybDKD"
+            },
+            "difficulty": {
+                "level": 3
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "LCP 75",
+                "question__title": "\u4f20\u9001\u5377\u8f74",
+                "question__title_slug": "rdmXM7"
+            },
+            "difficulty": {
+                "level": 3
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "LCP 74",
+                "question__title": "\u6700\u5f3a\u795d\u798f\u529b\u573a",
+                "question__title_slug": "xepqZ5"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "LCP 73",
+                "question__title": "\u63a2\u9669\u8425\u5730",
+                "question__title_slug": "0Zeoeg"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "LCP 72",
+                "question__title": "\u8865\u7ed9\u9a6c\u8f66",
+                "question__title_slug": "hqCnmP"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
                 "frontend_question_id": "LCP 71",
                 "question__title": "\u96c6\u6c34\u5668",
                 "question__title_slug": "kskhHQ"
@@ -2763,7 +2884,7 @@
         },
         {
             "stat": {
-                "frontend_question_id": "\u9762\u8bd5\u989861",
+                "frontend_question_id": "\u5251\u6307 Offer 61",
                 "question__title": "\u6251\u514b\u724c\u4e2d\u7684\u987a\u5b50  LCOF",
                 "question__title_slug": "bu-ke-pai-zhong-de-shun-zi-lcof"
             },
@@ -2774,7 +2895,7 @@
         },
         {
             "stat": {
-                "frontend_question_id": "\u9762\u8bd5\u989867",
+                "frontend_question_id": "\u5251\u6307 Offer 67",
                 "question__title": "\u628a\u5b57\u7b26\u4e32\u8f6c\u6362\u6210\u6574\u6570 LCOF",
                 "question__title_slug": "ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof"
             },
@@ -2807,7 +2928,7 @@
         },
         {
             "stat": {
-                "frontend_question_id": "\u9762\u8bd5\u989859 - II",
+                "frontend_question_id": "\u5251\u6307 Offer 59 - II",
                 "question__title": "\u961f\u5217\u7684\u6700\u5927\u503c LCOF",
                 "question__title_slug": "dui-lie-de-zui-da-zhi-lcof"
             },
@@ -2961,7 +3082,7 @@
         },
         {
             "stat": {
-                "frontend_question_id": "\u9762\u8bd5\u989845",
+                "frontend_question_id": "\u5251\u6307 Offer 45",
                 "question__title": "\u628a\u6570\u7ec4\u6392\u6210\u6700\u5c0f\u7684\u6570 LCOF",
                 "question__title_slug": "ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof"
             },
@@ -3423,7 +3544,7 @@
         },
         {
             "stat": {
-                "frontend_question_id": "\u9762\u8bd5\u989813",
+                "frontend_question_id": "\u5251\u6307 Offer 13",
                 "question__title": "\u673a\u5668\u4eba\u7684\u8fd0\u52a8\u8303\u56f4  LCOF",
                 "question__title_slug": "ji-qi-ren-de-yun-dong-fan-wei-lcof"
             },
@@ -3678,7 +3799,7 @@
             "stat": {
                 "frontend_question_id": "\u9762\u8bd5\u9898 05.02",
                 "question__title": "Binary Number to String LCCI",
-                "question__title_slug": "bianry-number-to-string-lcci"
+                "question__title_slug": "binary-number-to-string-lcci"
             },
             "difficulty": {
                 "level": 2
@@ -4149,12 +4270,1816 @@
         },
         {
             "stat": {
-                "frontend_question_id": "6295",
+                "frontend_question_id": "6464",
+                "question__title": "Greatest Common Divisor Traversal",
+                "question__title_slug": "greatest-common-divisor-traversal"
+            },
+            "difficulty": {
+                "level": 3
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2703",
+                "question__title": "Return Length of Arguments Passed",
+                "question__title_slug": "return-length-of-arguments-passed"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "6457",
+                "question__title": "Remove Trailing Zeros From a String",
+                "question__title_slug": "remove-trailing-zeros-from-a-string"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "6456",
+                "question__title": "Maximum Strictly Increasing Cells in a Matrix",
+                "question__title_slug": "maximum-strictly-increasing-cells-in-a-matrix"
+            },
+            "difficulty": {
+                "level": 3
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "6455",
+                "question__title": "Minimum Cost to Make All Characters Equal",
+                "question__title_slug": "minimum-cost-to-make-all-characters-equal"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2697",
+                "question__title": "Lexicographically Smallest Palindrome",
+                "question__title_slug": "lexicographically-smallest-palindrome"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2667",
+                "question__title": "Create Hello World Function",
+                "question__title_slug": "create-hello-world-function"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2695",
+                "question__title": "Array Wrapper",
+                "question__title_slug": "array-wrapper"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2699",
+                "question__title": "Modify Graph Edge Weights",
+                "question__title_slug": "modify-graph-edge-weights"
+            },
+            "difficulty": {
+                "level": 3
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2698",
+                "question__title": "Find the Punishment Number of an Integer",
+                "question__title_slug": "find-the-punishment-number-of-an-integer"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2711",
+                "question__title": "Difference of Number of Distinct Values on Diagonals",
+                "question__title_slug": "difference-of-number-of-distinct-values-on-diagonals"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2696",
+                "question__title": "Minimum String Length After Removing Substrings",
+                "question__title_slug": "minimum-string-length-after-removing-substrings"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2677",
+                "question__title": "Chunk Array",
+                "question__title_slug": "chunk-array"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2694",
+                "question__title": "Event Emitter",
+                "question__title_slug": "event-emitter"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2666",
+                "question__title": "Allow One Function Call",
+                "question__title_slug": "allow-one-function-call"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2684",
+                "question__title": "Maximum Number of Moves in a Grid",
+                "question__title_slug": "maximum-number-of-moves-in-a-grid"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2685",
+                "question__title": "Count the Number of Complete Components",
+                "question__title_slug": "count-the-number-of-complete-components"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2683",
+                "question__title": "Neighboring Bitwise XOR",
+                "question__title_slug": "neighboring-bitwise-xor"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2682",
+                "question__title": "Find the Losers of the Circular Game",
+                "question__title_slug": "find-the-losers-of-the-circular-game"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2693",
+                "question__title": "Call Function with Custom Context",
+                "question__title_slug": "call-function-with-custom-context"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2665",
+                "question__title": "Counter II",
+                "question__title_slug": "counter-ii"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2650",
+                "question__title": "Design Cancellable Function",
+                "question__title_slug": "design-cancellable-function"
+            },
+            "difficulty": {
+                "level": 3
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2681",
+                "question__title": "Power of Heroes",
+                "question__title_slug": "power-of-heroes"
+            },
+            "difficulty": {
+                "level": 3
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2649",
+                "question__title": "Nested Array Generator",
+                "question__title_slug": "nested-array-generator"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2673",
+                "question__title": "Make Costs of Paths Equal in a Binary Tree",
+                "question__title_slug": "make-costs-of-paths-equal-in-a-binary-tree"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2672",
+                "question__title": "Number of Adjacent Elements With the Same Color",
+                "question__title_slug": "number-of-adjacent-elements-with-the-same-color"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2671",
+                "question__title": "Frequency Tracker",
+                "question__title_slug": "frequency-tracker"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2670",
+                "question__title": "Find the Distinct Difference Array",
+                "question__title_slug": "find-the-distinct-difference-array"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2648",
+                "question__title": "Generate Fibonacci Sequence",
+                "question__title_slug": "generate-fibonacci-sequence"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2700",
+                "question__title": "Differences Between Two Objects",
+                "question__title_slug": "differences-between-two-objects"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2676",
+                "question__title": "Throttle",
+                "question__title_slug": "throttle"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2675",
+                "question__title": "Array of Objects to Matrix",
+                "question__title_slug": "array-of-objects-to-matrix"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2656",
+                "question__title": "Maximum Sum With Exactly K Elements ",
+                "question__title_slug": "maximum-sum-with-exactly-k-elements"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2657",
+                "question__title": "Find the Prefix Common Array of Two Arrays",
+                "question__title_slug": "find-the-prefix-common-array-of-two-arrays"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2659",
+                "question__title": "Make Array Empty",
+                "question__title_slug": "make-array-empty"
+            },
+            "difficulty": {
+                "level": 3
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2658",
+                "question__title": "Maximum Number of Fish in a Grid",
+                "question__title_slug": "maximum-number-of-fish-in-a-grid"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2622",
+                "question__title": "Cache With Time Limit",
+                "question__title_slug": "cache-with-time-limit"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2626",
+                "question__title": "Array Reduce Transformation",
+                "question__title_slug": "array-reduce-transformation"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2624",
+                "question__title": "Snail Traversal",
+                "question__title_slug": "snail-traversal"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2625",
+                "question__title": "Flatten Deeply Nested Array",
+                "question__title_slug": "flatten-deeply-nested-array"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2618",
+                "question__title": "Check if Object Instance of Class",
+                "question__title_slug": "check-if-object-instance-of-class"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "6395",
+                "question__title": "Buy Two Chocolates",
+                "question__title_slug": "buy-two-chocolates"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "6394",
+                "question__title": "Extra Characters in a String",
+                "question__title_slug": "extra-characters-in-a-string"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "6393",
+                "question__title": "Maximum Strength of a Group",
+                "question__title_slug": "maximum-strength-of-a-group"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2654",
+                "question__title": "Minimum Number of Operations to Make All Array Elements Equal to 1",
+                "question__title_slug": "minimum-number-of-operations-to-make-all-array-elements-equal-to-1"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2652",
+                "question__title": "Sum Multiples",
+                "question__title_slug": "sum-multiples"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2653",
+                "question__title": "Sliding Subarray Beauty",
+                "question__title_slug": "sliding-subarray-beauty"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2636",
+                "question__title": "Promise Pool",
+                "question__title_slug": "promise-pool"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2637",
+                "question__title": "Promise Time Limit",
+                "question__title_slug": "promise-time-limit"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2651",
+                "question__title": "Calculate Delayed Arrival Time",
+                "question__title_slug": "calculate-delayed-arrival-time"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2635",
+                "question__title": "Apply Transform Over Each Element in Array",
+                "question__title_slug": "apply-transform-over-each-element-in-array"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2634",
+                "question__title": "Filter Elements from Array",
+                "question__title_slug": "filter-elements-from-array"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2633",
+                "question__title": "Convert Object to JSON String",
+                "question__title_slug": "convert-object-to-json-string"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2630",
+                "question__title": "Memoize II",
+                "question__title_slug": "memoize-ii"
+            },
+            "difficulty": {
+                "level": 3
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2627",
+                "question__title": "Debounce",
+                "question__title_slug": "debounce"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2631",
+                "question__title": "Group By",
+                "question__title_slug": "group-by"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2629",
+                "question__title": "Function Composition",
+                "question__title_slug": "function-composition"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2632",
+                "question__title": "Curry",
+                "question__title_slug": "curry"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2646",
+                "question__title": "Minimize the Total Price of the Trips",
+                "question__title_slug": "minimize-the-total-price-of-the-trips"
+            },
+            "difficulty": {
+                "level": 3
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2643",
+                "question__title": "Row With Maximum Ones",
+                "question__title_slug": "row-with-maximum-ones"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2645",
+                "question__title": "Minimum Additions to Make Valid String",
+                "question__title_slug": "minimum-additions-to-make-valid-string"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2628",
+                "question__title": "JSON Deep Equal",
+                "question__title_slug": "json-deep-equal"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2619",
+                "question__title": "Array Prototype Last",
+                "question__title_slug": "array-prototype-last"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2621",
+                "question__title": "Sleep",
+                "question__title_slug": "sleep"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2620",
+                "question__title": "Counter",
+                "question__title_slug": "counter"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2623",
+                "question__title": "Memoize",
+                "question__title_slug": "memoize"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2680",
+                "question__title": "Maximum OR",
+                "question__title_slug": "maximum-or"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2679",
+                "question__title": "Sum in a Matrix",
+                "question__title_slug": "sum-in-a-matrix"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2678",
+                "question__title": "Number of Senior Citizens",
+                "question__title_slug": "number-of-senior-citizens"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2612",
+                "question__title": "Minimum Reverse Operations",
+                "question__title_slug": "minimum-reverse-operations"
+            },
+            "difficulty": {
+                "level": 3
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2611",
+                "question__title": "Mice and Cheese",
+                "question__title_slug": "mice-and-cheese"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2610",
+                "question__title": "Convert an Array Into a 2D Array With Conditions",
+                "question__title_slug": "convert-an-array-into-a-2d-array-with-conditions"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2609",
+                "question__title": "Find the Longest Balanced Substring of a Binary String",
+                "question__title_slug": "find-the-longest-balanced-substring-of-a-binary-string"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2614",
+                "question__title": "Prime In Diagonal",
+                "question__title_slug": "prime-in-diagonal"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2615",
+                "question__title": "Sum of Distances",
+                "question__title_slug": "sum-of-distances"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2616",
+                "question__title": "Minimize the Maximum Difference of Pairs",
+                "question__title_slug": "minimize-the-maximum-difference-of-pairs"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2602",
+                "question__title": "Minimum Operations to Make All Array Elements Equal",
+                "question__title_slug": "minimum-operations-to-make-all-array-elements-equal"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2603",
+                "question__title": "Collect Coins in a Tree",
+                "question__title_slug": "collect-coins-in-a-tree"
+            },
+            "difficulty": {
+                "level": 3
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2601",
+                "question__title": "Prime Subtraction Operation",
+                "question__title_slug": "prime-subtraction-operation"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2600",
+                "question__title": "K Items With the Maximum Sum",
+                "question__title_slug": "k-items-with-the-maximum-sum"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2574",
+                "question__title": "Left and Right Sum Differences",
+                "question__title_slug": "left-and-right-sum-differences"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2575",
+                "question__title": "Find the Divisibility Array of a String",
+                "question__title_slug": "find-the-divisibility-array-of-a-string"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2576",
+                "question__title": "Find the Maximum Number of Marked Indices",
+                "question__title_slug": "find-the-maximum-number-of-marked-indices"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2577",
+                "question__title": "Minimum Time to Visit a Cell In a Grid",
+                "question__title_slug": "minimum-time-to-visit-a-cell-in-a-grid"
+            },
+            "difficulty": {
+                "level": 3
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2571",
+                "question__title": "Minimum Operations to Reduce an Integer to 0",
+                "question__title_slug": "minimum-operations-to-reduce-an-integer-to-0"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2572",
+                "question__title": "Count the Number of Square-Free Subsets",
+                "question__title_slug": "count-the-number-of-square-free-subsets"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2573",
+                "question__title": "Find the String with LCP",
+                "question__title_slug": "find-the-string-with-lcp"
+            },
+            "difficulty": {
+                "level": 3
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2570",
+                "question__title": "Merge Two 2D Arrays by Summing Values",
+                "question__title_slug": "merge-two-2d-arrays-by-summing-values"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2567",
+                "question__title": "Minimum Score by Changing Two Elements",
+                "question__title_slug": "minimum-score-by-changing-two-elements"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2568",
+                "question__title": "Minimum Impossible OR",
+                "question__title_slug": "minimum-impossible-or"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2566",
+                "question__title": "Maximum Difference by Remapping a Digit",
+                "question__title_slug": "maximum-difference-by-remapping-a-digit"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2569",
+                "question__title": "Handling Sum Queries After Update",
+                "question__title_slug": "handling-sum-queries-after-update"
+            },
+            "difficulty": {
+                "level": 3
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2565",
+                "question__title": "Subsequence With the Minimum Score",
+                "question__title_slug": "subsequence-with-the-minimum-score"
+            },
+            "difficulty": {
+                "level": 3
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2564",
+                "question__title": "Substring XOR Queries",
+                "question__title_slug": "substring-xor-queries"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2563",
+                "question__title": "Count the Number of Fair Pairs",
+                "question__title_slug": "count-the-number-of-fair-pairs"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2562",
+                "question__title": "Find the Array Concatenation Value",
+                "question__title_slug": "find-the-array-concatenation-value"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2617",
+                "question__title": "Minimum Number of Visited Cells in a Grid",
+                "question__title_slug": "minimum-number-of-visited-cells-in-a-grid"
+            },
+            "difficulty": {
+                "level": 3
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2597",
+                "question__title": "The Number of Beautiful Subsets",
+                "question__title_slug": "the-number-of-beautiful-subsets"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2593",
+                "question__title": "Find Score of an Array After Marking All Elements",
+                "question__title_slug": "find-score-of-an-array-after-marking-all-elements"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2644",
+                "question__title": "Find the Maximum Divisibility Score",
+                "question__title_slug": "find-the-maximum-divisibility-score"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2558",
+                "question__title": "Take Gifts From the Richest Pile",
+                "question__title_slug": "take-gifts-from-the-richest-pile"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2559",
+                "question__title": "Count Vowel Strings in Ranges",
+                "question__title_slug": "count-vowel-strings-in-ranges"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2560",
+                "question__title": "House Robber IV",
+                "question__title_slug": "house-robber-iv"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2561",
+                "question__title": "Rearranging Fruits",
+                "question__title_slug": "rearranging-fruits"
+            },
+            "difficulty": {
+                "level": 3
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2663",
+                "question__title": "Lexicographically Smallest Beautiful String",
+                "question__title_slug": "lexicographically-smallest-beautiful-string"
+            },
+            "difficulty": {
+                "level": 3
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2662",
+                "question__title": "Minimum Cost of a Path With Special Roads",
+                "question__title_slug": "minimum-cost-of-a-path-with-special-roads"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2661",
+                "question__title": "First Completely Painted Row or Column",
+                "question__title_slug": "first-completely-painted-row-or-column"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2660",
+                "question__title": "Determine the Winner of a Bowling Game",
+                "question__title_slug": "determine-the-winner-of-a-bowling-game"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2552",
+                "question__title": "Count Increasing Quadruplets",
+                "question__title_slug": "count-increasing-quadruplets"
+            },
+            "difficulty": {
+                "level": 3
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2551",
+                "question__title": "Put Marbles in Bags",
+                "question__title_slug": "put-marbles-in-bags"
+            },
+            "difficulty": {
+                "level": 3
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2550",
+                "question__title": "Count Collisions of Monkeys on a Polygon",
+                "question__title_slug": "count-collisions-of-monkeys-on-a-polygon"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2549",
+                "question__title": "Count Distinct Numbers on Board",
+                "question__title_slug": "count-distinct-numbers-on-board"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2642",
+                "question__title": "Design Graph With Shortest Path Calculator",
+                "question__title_slug": "design-graph-with-shortest-path-calculator"
+            },
+            "difficulty": {
+                "level": 3
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2641",
+                "question__title": "Cousins in Binary Tree II",
+                "question__title_slug": "cousins-in-binary-tree-ii"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2640",
+                "question__title": "Find the Score of All Prefixes of an Array",
+                "question__title_slug": "find-the-score-of-all-prefixes-of-an-array"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2639",
+                "question__title": "Find the Width of Columns of a Grid",
+                "question__title_slug": "find-the-width-of-columns-of-a-grid"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2555",
+                "question__title": "Maximize Win From Two Segments",
+                "question__title_slug": "maximize-win-from-two-segments"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2608",
+                "question__title": "Shortest Cycle in a Graph",
+                "question__title_slug": "shortest-cycle-in-a-graph"
+            },
+            "difficulty": {
+                "level": 3
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2607",
+                "question__title": "Make K-Subarray Sums Equal",
+                "question__title_slug": "make-k-subarray-sums-equal"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2606",
+                "question__title": "Find the Substring With Maximum Cost",
+                "question__title_slug": "find-the-substring-with-maximum-cost"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2605",
+                "question__title": "Form Smallest Number From Two Digit Arrays",
+                "question__title_slug": "form-smallest-number-from-two-digit-arrays"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2594",
+                "question__title": "Minimum Time to Repair Cars",
+                "question__title_slug": "minimum-time-to-repair-cars"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2592",
+                "question__title": "Maximize Greatness of an Array",
+                "question__title_slug": "maximize-greatness-of-an-array"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2591",
+                "question__title": "Distribute Money to Maximum Children",
+                "question__title_slug": "distribute-money-to-maximum-children"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2596",
+                "question__title": "Check Knight Tour Configuration",
+                "question__title_slug": "check-knight-tour-configuration"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2598",
+                "question__title": "Smallest Missing Non-negative Integer After Operations",
+                "question__title_slug": "smallest-missing-non-negative-integer-after-operations"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2595",
+                "question__title": "Number of Even and Odd Bits",
+                "question__title_slug": "number-of-even-and-odd-bits"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2589",
+                "question__title": "Minimum Time to Complete All Tasks",
+                "question__title_slug": "minimum-time-to-complete-all-tasks"
+            },
+            "difficulty": {
+                "level": 3
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2588",
+                "question__title": "Count the Number of Beautiful Subarrays",
+                "question__title_slug": "count-the-number-of-beautiful-subarrays"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2587",
+                "question__title": "Rearrange Array to Maximize Prefix Score",
+                "question__title_slug": "rearrange-array-to-maximize-prefix-score"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2586",
+                "question__title": "Count the Number of Vowel Strings in Range",
+                "question__title_slug": "count-the-number-of-vowel-strings-in-range"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2581",
+                "question__title": "Count Number of Possible Root Nodes",
+                "question__title_slug": "count-number-of-possible-root-nodes"
+            },
+            "difficulty": {
+                "level": 3
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2580",
+                "question__title": "Count Ways to Group Overlapping Ranges",
+                "question__title_slug": "count-ways-to-group-overlapping-ranges"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2578",
+                "question__title": "Split With Minimum Sum",
+                "question__title_slug": "split-with-minimum-sum"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2579",
+                "question__title": "Count Total Number of Colored Cells",
+                "question__title_slug": "count-total-number-of-colored-cells"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2585",
+                "question__title": "Number of Ways to Earn Points",
+                "question__title_slug": "number-of-ways-to-earn-points"
+            },
+            "difficulty": {
+                "level": 3
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2584",
+                "question__title": "Split the Array to Make Coprime Products",
+                "question__title_slug": "split-the-array-to-make-coprime-products"
+            },
+            "difficulty": {
+                "level": 3
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2583",
+                "question__title": "Kth Largest Sum in a Binary Tree",
+                "question__title_slug": "kth-largest-sum-in-a-binary-tree"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2582",
+                "question__title": "Pass the Pillow",
+                "question__title_slug": "pass-the-pillow"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2532",
+                "question__title": "Time to Cross a Bridge",
+                "question__title_slug": "time-to-cross-a-bridge"
+            },
+            "difficulty": {
+                "level": 3
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2556",
+                "question__title": "Disconnect Path in a Binary Matrix by at Most One Flip",
+                "question__title_slug": "disconnect-path-in-a-binary-matrix-by-at-most-one-flip"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2554",
+                "question__title": "Maximum Number of Integers to Choose From a Range I",
+                "question__title_slug": "maximum-number-of-integers-to-choose-from-a-range-i"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2553",
+                "question__title": "Separate the Digits in an Array",
+                "question__title_slug": "separate-the-digits-in-an-array"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2542",
+                "question__title": "Maximum Subsequence Score",
+                "question__title_slug": "maximum-subsequence-score"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2543",
+                "question__title": "Check if Point Is Reachable",
+                "question__title_slug": "check-if-point-is-reachable"
+            },
+            "difficulty": {
+                "level": 3
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2540",
+                "question__title": "Minimum Common Value",
+                "question__title_slug": "minimum-common-value"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2547",
+                "question__title": "Minimum Cost to Split an Array",
+                "question__title_slug": "minimum-cost-to-split-an-array"
+            },
+            "difficulty": {
+                "level": 3
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2546",
+                "question__title": "Apply Bitwise Operations to Make Strings Equal",
+                "question__title_slug": "apply-bitwise-operations-to-make-strings-equal"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2545",
+                "question__title": "Sort the Students by Their Kth Score",
+                "question__title_slug": "sort-the-students-by-their-kth-score"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2544",
+                "question__title": "Alternating Digit Sum",
+                "question__title_slug": "alternating-digit-sum"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2513",
                 "question__title": "Minimize the Maximum of Two Arrays",
                 "question__title_slug": "minimize-the-maximum-of-two-arrays"
             },
             "difficulty": {
                 "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2538",
+                "question__title": "Difference Between Maximum and Minimum Price Sum",
+                "question__title_slug": "difference-between-maximum-and-minimum-price-sum"
+            },
+            "difficulty": {
+                "level": 3
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2537",
+                "question__title": "Count the Number of Good Subarrays",
+                "question__title_slug": "count-the-number-of-good-subarrays"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2536",
+                "question__title": "Increment Submatrices by One",
+                "question__title_slug": "increment-submatrices-by-one"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2535",
+                "question__title": "Difference Between Element Sum and Digit Sum of an Array",
+                "question__title_slug": "difference-between-element-sum-and-digit-sum-of-an-array"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2527",
+                "question__title": "Find Xor-Beauty of Array",
+                "question__title_slug": "find-xor-beauty-of-array"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2526",
+                "question__title": "Find Consecutive Integers from a Data Stream",
+                "question__title_slug": "find-consecutive-integers-from-a-data-stream"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2525",
+                "question__title": "Categorize Box According to Criteria",
+                "question__title_slug": "categorize-box-according-to-criteria"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2528",
+                "question__title": "Maximize the Minimum Powered City",
+                "question__title_slug": "maximize-the-minimum-powered-city"
+            },
+            "difficulty": {
+                "level": 3
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2530",
+                "question__title": "Maximal Score After Applying K Operations",
+                "question__title_slug": "maximal-score-after-applying-k-operations"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2531",
+                "question__title": "Make Number of Distinct Characters Equal",
+                "question__title_slug": "make-number-of-distinct-characters-equal"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2529",
+                "question__title": "Maximum Count of Positive Integer and Negative Integer",
+                "question__title_slug": "maximum-count-of-positive-integer-and-negative-integer"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2523",
+                "question__title": "Closest Prime Numbers in Range",
+                "question__title_slug": "closest-prime-numbers-in-range"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2521",
+                "question__title": "Distinct Prime Factors of Product of Array",
+                "question__title_slug": "distinct-prime-factors-of-product-of-array"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2520",
+                "question__title": "Count the Digits That Divide a Number",
+                "question__title_slug": "count-the-digits-that-divide-a-number"
+            },
+            "difficulty": {
+                "level": 1
             },
             "paid_only": false
         },
@@ -4171,7 +6096,7 @@
         },
         {
             "stat": {
-                "frontend_question_id": "6276",
+                "frontend_question_id": "2514",
                 "question__title": "Count Anagrams",
                 "question__title_slug": "count-anagrams"
             },
@@ -4182,7 +6107,18 @@
         },
         {
             "stat": {
-                "frontend_question_id": "6274",
+                "frontend_question_id": "2541",
+                "question__title": "Minimum Operations to Make Array Equal II",
+                "question__title_slug": "minimum-operations-to-make-array-equal-ii"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2512",
                 "question__title": "Reward Top K Students",
                 "question__title_slug": "reward-top-k-students"
             },
@@ -4193,7 +6129,7 @@
         },
         {
             "stat": {
-                "frontend_question_id": "6273",
+                "frontend_question_id": "2511",
                 "question__title": "Maximum Enemy Forts That Can Be Captured",
                 "question__title_slug": "maximum-enemy-forts-that-can-be-captured"
             },
@@ -4204,7 +6140,7 @@
         },
         {
             "stat": {
-                "frontend_question_id": "6272",
+                "frontend_question_id": "2518",
                 "question__title": "Number of Great Partitions",
                 "question__title_slug": "number-of-great-partitions"
             },
@@ -4215,7 +6151,7 @@
         },
         {
             "stat": {
-                "frontend_question_id": "6271",
+                "frontend_question_id": "2517",
                 "question__title": "Maximum Tastiness of Candy Basket",
                 "question__title_slug": "maximum-tastiness-of-candy-basket"
             },
@@ -4226,7 +6162,7 @@
         },
         {
             "stat": {
-                "frontend_question_id": "6270",
+                "frontend_question_id": "2516",
                 "question__title": "Take K of Each Character From Left and Right",
                 "question__title_slug": "take-k-of-each-character-from-left-and-right"
             },
@@ -4237,7 +6173,7 @@
         },
         {
             "stat": {
-                "frontend_question_id": "6269",
+                "frontend_question_id": "2515",
                 "question__title": "Shortest Distance to Target String in a Circular Array",
                 "question__title_slug": "shortest-distance-to-target-string-in-a-circular-array"
             },
@@ -4996,6 +6932,17 @@
         },
         {
             "stat": {
+                "frontend_question_id": "2522",
+                "question__title": "Partition String Into Substrings With Values at Most K",
+                "question__title_slug": "partition-string-into-substrings-with-values-at-most-k"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
                 "frontend_question_id": "2430",
                 "question__title": "Maximum Deletions on a String",
                 "question__title_slug": "maximum-deletions-on-a-string"
@@ -5120,6 +7067,17 @@
                 "frontend_question_id": "2409",
                 "question__title": "Count Days Spent Together",
                 "question__title_slug": "count-days-spent-together"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "2356",
+                "question__title": "Number of Unique Subjects Taught by Each Teacher",
+                "question__title_slug": "number-of-unique-subjects-taught-by-each-teacher"
             },
             "difficulty": {
                 "level": 1
@@ -8351,6 +10309,17 @@
         },
         {
             "stat": {
+                "frontend_question_id": "1978",
+                "question__title": "Employees Whose Manager Left the Company",
+                "question__title_slug": "employees-whose-manager-left-the-company"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
                 "frontend_question_id": "1998",
                 "question__title": "GCD Sort of an Array",
                 "question__title_slug": "gcd-sort-of-an-array"
@@ -8714,6 +10683,17 @@
         },
         {
             "stat": {
+                "frontend_question_id": "1934",
+                "question__title": "Confirmation Rate",
+                "question__title_slug": "confirmation-rate"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
                 "frontend_question_id": "1955",
                 "question__title": "Count Number of Special Subsequences",
                 "question__title_slug": "count-number-of-special-subsequences"
@@ -8896,6 +10876,17 @@
             },
             "difficulty": {
                 "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "1907",
+                "question__title": "Count Salary Categories",
+                "question__title_slug": "count-salary-categories"
+            },
+            "difficulty": {
+                "level": 2
             },
             "paid_only": false
         },
@@ -9836,6 +11827,17 @@
         },
         {
             "stat": {
+                "frontend_question_id": "1789",
+                "question__title": "Primary Department for Each Employee",
+                "question__title_slug": "primary-department-for-each-employee"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
                 "frontend_question_id": "1830",
                 "question__title": "Minimum Number of Operations to Make String Sorted",
                 "question__title_slug": "minimum-number-of-operations-to-make-string-sorted"
@@ -10342,6 +12344,17 @@
         },
         {
             "stat": {
+                "frontend_question_id": "1731",
+                "question__title": "The Number of Employees Which Report to Each Employee",
+                "question__title_slug": "the-number-of-employees-which-report-to-each-employee"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
                 "frontend_question_id": "1755",
                 "question__title": "Closest Subsequence Sum",
                 "question__title_slug": "closest-subsequence-sum"
@@ -10716,6 +12729,17 @@
         },
         {
             "stat": {
+                "frontend_question_id": "1683",
+                "question__title": "Invalid Tweets",
+                "question__title_slug": "invalid-tweets"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
                 "frontend_question_id": "1707",
                 "question__title": "Maximum XOR With an Element From Array",
                 "question__title_slug": "maximum-xor-with-an-element-from-array"
@@ -10936,6 +12960,17 @@
         },
         {
             "stat": {
+                "frontend_question_id": "1661",
+                "question__title": "Average Time of Process per Machine",
+                "question__title_slug": "average-time-of-process-per-machine"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
                 "frontend_question_id": "1680",
                 "question__title": "Concatenation of Consecutive Binary Numbers",
                 "question__title_slug": "concatenation-of-consecutive-binary-numbers"
@@ -11148,6 +13183,17 @@
                 "frontend_question_id": "1656",
                 "question__title": "Design an Ordered Stream",
                 "question__title_slug": "design-an-ordered-stream"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "1633",
+                "question__title": "Percentage of Users Attended a Contest",
+                "question__title_slug": "percentage-of-users-attended-a-contest"
             },
             "difficulty": {
                 "level": 1
@@ -12061,6 +14107,17 @@
                 "frontend_question_id": "1544",
                 "question__title": "Make The String Great",
                 "question__title_slug": "make-the-string-great"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "1517",
+                "question__title": "Find Users With Valid E-Mails",
+                "question__title_slug": "find-users-with-valid-e-mails"
             },
             "difficulty": {
                 "level": 1
@@ -13323,6 +15380,17 @@
         },
         {
             "stat": {
+                "frontend_question_id": "1378",
+                "question__title": "Replace Employee ID With The Unique Identifier",
+                "question__title_slug": "replace-employee-id-with-the-unique-identifier"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
                 "frontend_question_id": "1392",
                 "question__title": "Longest Happy Prefix",
                 "question__title_slug": "longest-happy-prefix"
@@ -13576,6 +15644,17 @@
         },
         {
             "stat": {
+                "frontend_question_id": "1341",
+                "question__title": "Movie Rating",
+                "question__title_slug": "movie-rating"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
                 "frontend_question_id": "1354",
                 "question__title": "Construct Target Array With Multiple Sums",
                 "question__title_slug": "construct-target-array-with-multiple-sums"
@@ -13752,6 +15831,17 @@
         },
         {
             "stat": {
+                "frontend_question_id": "1327",
+                "question__title": "List the Products Ordered in a Period",
+                "question__title_slug": "list-the-products-ordered-in-a-period"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
                 "frontend_question_id": "1359",
                 "question__title": "Count All Valid Pickup and Delivery Options",
                 "question__title_slug": "count-all-valid-pickup-and-delivery-options"
@@ -13835,6 +15925,17 @@
             },
             "difficulty": {
                 "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "1321",
+                "question__title": "Restaurant Growth",
+                "question__title_slug": "restaurant-growth"
+            },
+            "difficulty": {
+                "level": 2
             },
             "paid_only": false
         },
@@ -14148,6 +16249,17 @@
         },
         {
             "stat": {
+                "frontend_question_id": "1280",
+                "question__title": "Students and Examinations",
+                "question__title_slug": "students-and-examinations"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
                 "frontend_question_id": "1293",
                 "question__title": "Shortest Path in a Grid with Obstacles Elimination",
                 "question__title_slug": "shortest-path-in-a-grid-with-obstacles-elimination"
@@ -14338,6 +16450,17 @@
                 "frontend_question_id": "2215",
                 "question__title": "Find the Difference of Two Arrays",
                 "question__title_slug": "find-the-difference-of-two-arrays"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "1251",
+                "question__title": "Average Selling Price",
+                "question__title_slug": "average-selling-price"
             },
             "difficulty": {
                 "level": 1
@@ -14764,6 +16887,17 @@
         },
         {
             "stat": {
+                "frontend_question_id": "1211",
+                "question__title": "Queries Quality and Percentage",
+                "question__title_slug": "queries-quality-and-percentage"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
                 "frontend_question_id": "1206",
                 "question__title": "Design Skiplist",
                 "question__title_slug": "design-skiplist"
@@ -14863,6 +16997,17 @@
         },
         {
             "stat": {
+                "frontend_question_id": "1204",
+                "question__title": "Last Person to Fit in the Bus",
+                "question__title_slug": "last-person-to-fit-in-the-bus"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
                 "frontend_question_id": "1862",
                 "question__title": "Sum of Floored Pairs",
                 "question__title_slug": "sum-of-floored-pairs"
@@ -14935,6 +17080,17 @@
             },
             "difficulty": {
                 "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "1193",
+                "question__title": "Monthly Transactions I",
+                "question__title_slug": "monthly-transactions-i"
+            },
+            "difficulty": {
+                "level": 2
             },
             "paid_only": false
         },
@@ -15182,6 +17338,17 @@
         },
         {
             "stat": {
+                "frontend_question_id": "1174",
+                "question__title": "Immediate Food Delivery II",
+                "question__title_slug": "immediate-food-delivery-ii"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
                 "frontend_question_id": "1187",
                 "question__title": "Make Array Strictly Increasing",
                 "question__title_slug": "make-array-strictly-increasing"
@@ -15298,6 +17465,17 @@
             },
             "difficulty": {
                 "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "1164",
+                "question__title": "Product Price at a Given Date",
+                "question__title_slug": "product-price-at-a-given-date"
+            },
+            "difficulty": {
+                "level": 2
             },
             "paid_only": false
         },
@@ -16062,6 +18240,17 @@
         },
         {
             "stat": {
+                "frontend_question_id": "550",
+                "question__title": "Game Play Analysis IV",
+                "question__title_slug": "game-play-analysis-iv"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
                 "frontend_question_id": "511",
                 "question__title": "Game Play Analysis I",
                 "question__title_slug": "game-play-analysis-i"
@@ -16128,6 +18317,17 @@
         },
         {
             "stat": {
+                "frontend_question_id": "1075",
+                "question__title": "Project Employees I",
+                "question__title_slug": "project-employees-i"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
                 "frontend_question_id": "1079",
                 "question__title": "Letter Tile Possibilities",
                 "question__title_slug": "letter-tile-possibilities"
@@ -16164,6 +18364,28 @@
                 "frontend_question_id": "1078",
                 "question__title": "Occurrences After Bigram",
                 "question__title_slug": "occurrences-after-bigram"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "1070",
+                "question__title": "Product Sales Analysis III",
+                "question__title_slug": "product-sales-analysis-iii"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "1068",
+                "question__title": "Product Sales Analysis I",
+                "question__title_slug": "product-sales-analysis-i"
             },
             "difficulty": {
                 "level": 1
@@ -16266,6 +18488,17 @@
             },
             "difficulty": {
                 "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "1045",
+                "question__title": "Customers Who Bought All Products",
+                "question__title_slug": "customers-who-bought-all-products"
+            },
+            "difficulty": {
+                "level": 2
             },
             "paid_only": false
         },
@@ -16706,6 +18939,17 @@
             },
             "difficulty": {
                 "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "1061",
+                "question__title": "Lexicographically Smallest Equivalent String",
+                "question__title_slug": "lexicographically-smallest-equivalent-string"
+            },
+            "difficulty": {
+                "level": 2
             },
             "paid_only": false
         },
@@ -20803,6 +23047,17 @@
         },
         {
             "stat": {
+                "frontend_question_id": "619",
+                "question__title": "Biggest Single Number",
+                "question__title_slug": "biggest-single-number"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
                 "frontend_question_id": "617",
                 "question__title": "Merge Two Binary Trees",
                 "question__title_slug": "merge-two-binary-trees"
@@ -20820,6 +23075,17 @@
             },
             "difficulty": {
                 "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "610",
+                "question__title": "Triangle Judgement",
+                "question__title_slug": "triangle-judgement"
+            },
+            "difficulty": {
+                "level": 1
             },
             "paid_only": false
         },
@@ -20875,6 +23141,17 @@
             },
             "difficulty": {
                 "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "602",
+                "question__title": "Friend Requests II: Who Has the Most Friends",
+                "question__title_slug": "friend-requests-ii-who-has-the-most-friends"
+            },
+            "difficulty": {
+                "level": 2
             },
             "paid_only": false
         },
@@ -21012,6 +23289,17 @@
         },
         {
             "stat": {
+                "frontend_question_id": "585",
+                "question__title": "Investments in 2016",
+                "question__title_slug": "investments-in-2016"
+            },
+            "difficulty": {
+                "level": 2
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
                 "frontend_question_id": "584",
                 "question__title": "Find Customer Referee",
                 "question__title_slug": "find-customer-referee"
@@ -21045,6 +23333,17 @@
         },
         {
             "stat": {
+                "frontend_question_id": "577",
+                "question__title": "Employee Bonus",
+                "question__title_slug": "employee-bonus"
+            },
+            "difficulty": {
+                "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
                 "frontend_question_id": "576",
                 "question__title": "Out of Boundary Paths",
                 "question__title_slug": "out-of-boundary-paths"
@@ -21073,6 +23372,17 @@
             },
             "difficulty": {
                 "level": 1
+            },
+            "paid_only": false
+        },
+        {
+            "stat": {
+                "frontend_question_id": "570",
+                "question__title": "Managers with at Least 5 Direct Reports",
+                "question__title_slug": "managers-with-at-least-5-direct-reports"
+            },
+            "difficulty": {
+                "level": 2
             },
             "paid_only": false
         },
